@@ -17,7 +17,7 @@ function App() {
                 },
                 {
                     path: "analytics",
-                    element: <h1 className="title">Analytics</h1>,
+                    element: <h1 className="title">Analytic</h1>,
                 },
                 {
                     path: "reports",
