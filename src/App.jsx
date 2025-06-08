@@ -21,7 +21,7 @@ function App() {
                 },
                 {
                     path: "reports",
-                    element: <h1 className="title">Reports</h1>,
+                    element: <h1 className="title">Report</h1>,
                 },
                 {
                     path: "customers",
