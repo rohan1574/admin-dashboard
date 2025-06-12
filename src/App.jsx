@@ -29,7 +29,7 @@ function App() {
                 },
                 {
                     path: "new-customer",
-                    element: <h1 className="title">New Customer</h1>,
+                    element: <h1 className="title">New Custome</h1>,
                 },
                 {
                     path: "verified-customers",
