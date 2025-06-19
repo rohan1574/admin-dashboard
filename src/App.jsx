@@ -33,7 +33,7 @@ function App() {
                 },
                 {
                     path: "verified-customers",
-                    element: <h1 className="title">Verified Customers</h1>,
+                    element: <h1 className="title">Verified Customer</h1>,
                 },
                 {
                     path: "products",
