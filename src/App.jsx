@@ -37,7 +37,7 @@ function App() {
                 },
                 {
                     path: "products",
-                    element: <h1 className="title">Products</h1>,
+                    element: <h1 className="title">Product</h1>,
                 },
                 {
                     path: "new-product",
