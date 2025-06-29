@@ -45,7 +45,7 @@ function App() {
                 },
                 {
                     path: "inventory",
-                    element: <h1 className="title">Inventory</h1>,
+                    element: <h1 className="title">Inventor</h1>,
                 },
                 {
                     path: "settings",
